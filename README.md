@@ -17,3 +17,12 @@ Steps to run the server:
 
 In case some errors occur due to missing dependencies, please install them on your local device using the pip install command.
 
+### User Interface :
+
+
+### How does it Work ?
+
+![alt text](https://github.com/Faulty404/AquaAir/blob/main/use%20case%20diagram.png)
+
+
+
