@@ -18,6 +18,8 @@ Steps to run the server:
 In case some errors occur due to missing dependencies, please install them on your local device using the pip install command.
 
 ### User Interface :
+![image](https://github.com/user-attachments/assets/670e92b5-1b90-4903-b7f2-8faab4229665)
+
 
 
 ### How does it Work ?
